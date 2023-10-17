@@ -24,3 +24,5 @@ function ifEven(array) {
 
 const evenResult = ifEven(numbers);
 console.log(evenResult);
+
+
