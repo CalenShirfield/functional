@@ -1,7 +1,7 @@
 /*
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce
-Spread & reduce
+Spread (& reduce) *reduce operations expanded on in reduce.js
 */
 
 /* Using spread operator to *indirectly* update values of an object  */
