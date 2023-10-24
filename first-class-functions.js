@@ -1,4 +1,6 @@
-
+/*
+https://javascript.info/closure
+ */
 
 const x = 5;
 const y = 7;
@@ -8,10 +10,10 @@ const y = 7;
 and returned by another function
 */
 
-/* myFunction  */
+/* myFunction becomes a value  */
 const myFunction = x < 10 ? add: subtract; // x -> -2
 
-// console.log(myFunction())
+console.log(myFunction())
 // console.log(myFunction())
 
 
